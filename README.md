@@ -14,6 +14,17 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+Purpose Purpose
+Purpose Purpose
+Purpose Purpose
+Purpose Purpose
+
 ## Deployment
+
+Deployment
+Deployment
+Deployment
+Deployment
+Deployment
 
 ## How to contribute
