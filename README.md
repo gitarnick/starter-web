@@ -28,3 +28,7 @@ Deployment
 Deployment
 
 ## How to contribute
+
+### Copyright
+
+blablabla
