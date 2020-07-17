@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    blabla blabla@o2.pl blalba
 
 # THANKS
 
