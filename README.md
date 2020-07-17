@@ -29,6 +29,8 @@ Deployment
 
 ## How to contribute
 
+jakis tekst blablabla
+
 ### Copyright
 
 blablabla
