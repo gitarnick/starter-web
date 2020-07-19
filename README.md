@@ -38,3 +38,4 @@ jakis tekst blablabla
 ### Copyright
 
 blablabla
+all rights reserved
